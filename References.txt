@@ -1,0 +1,22 @@
+XLDR ERROR
+https://exerror.com/xlrd-biffh-xlrderror-excel-xlsx-file-not-supported/
+
+QGRID
+https://towardsdatascience.com/two-essential-pandas-add-ons-499c1c9b65de
+https://www.youtube.com/watch?v=UEjQgGQ4wrY&ab_channel=BhaveshBhatt
+
+NUMPY ARRAY DTYPE = OBJETC TO INT OR FLOAT
+https://stackoverflow.com/questions/42726035/convert-object-dytpes-to-numeric-in-numpy
+
+MAX EIGENVALUES
+https://stackoverflow.com/questions/53307152/return-the-eigenvector-corresponding-to-the-max-eigenvalue-of-a
+
+REAL PART OF A NUMPY ARRAY
+https://numpy.org/doc/stable/reference/generated/numpy.real.html
+
+SUM COLUMNS NUMPY
+https://numpy.org/doc/stable/reference/generated/numpy.matrix.sum.html
+
+NUMPY DOT PRODUCT
+https://numpy.org/doc/stable/reference/generated/numpy.dot.html
+
