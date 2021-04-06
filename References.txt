@@ -20,3 +20,17 @@ https://numpy.org/doc/stable/reference/generated/numpy.matrix.sum.html
 NUMPY DOT PRODUCT
 https://numpy.org/doc/stable/reference/generated/numpy.dot.html
 
+BOLD TEXT PRINT AND INPUT
+https://stackoverflow.com/questions/8924173/how-do-i-print-bold-text-in-python
+
+FILL DIAGONAL NUMPY MATRIX
+https://numpy.org/doc/stable/reference/generated/numpy.fill_diagonal.html
+
+CHANGE ORDER OF COLUMNS PANDAS
+https://stackoverflow.com/questions/13148429/how-to-change-the-order-of-dataframe-columns#:~:text=You%20need%20to%20create%20a,columns%20in%20this%20new%20order.
+
+CHANGE NAME OF COLUMNS
+https://stackoverflow.com/questions/11346283/renaming-columns-in-pandas
+
+SORT PANDAS
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_values.html
