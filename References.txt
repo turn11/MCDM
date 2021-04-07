@@ -34,3 +34,13 @@ https://stackoverflow.com/questions/11346283/renaming-columns-in-pandas
 
 SORT PANDAS
 https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.sort_values.html
+
+TRANSPOSE DATAFRAME
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.transpose.html
+
+SUPRESS NUMPY SCIENTIFIC NOTATION
+https://stackoverflow.com/questions/9777783/suppress-scientific-notation-in-numpy-when-creating-array-from-nested-list
+
+PRINT NUMPY VALUES WITH SPECIFIC DECIMAL DIGITS
+https://stackoverflow.com/questions/22222818/how-to-printing-numpy-array-with-3-decimal-places
+
