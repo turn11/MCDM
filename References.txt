@@ -44,3 +44,14 @@ https://stackoverflow.com/questions/9777783/suppress-scientific-notation-in-nump
 PRINT NUMPY VALUES WITH SPECIFIC DECIMAL DIGITS
 https://stackoverflow.com/questions/22222818/how-to-printing-numpy-array-with-3-decimal-places
 
+GET VALUES FROM A MATRIX WITH SPECIFIC CONDITION
+https://stackoverflow.com/questions/13029029/getting-only-those-values-that-fulfill-a-condition-in-a-numpy-array
+
+SORT NUMPY ARRAY
+https://numpy.org/doc/stable/reference/generated/numpy.sort.html
+
+MATPLOTLIB MARKER SIZE
+https://stackoverflow.com/questions/14827650/pyplot-scatter-plot-marker-size
+
+DISTANCES FOR NUMPY ARRAYS
+https://stackoverflow.com/questions/1401712/how-can-the-euclidean-distance-be-calculated-with-numpy
